@@ -1,3 +1,5 @@
+'use strict';
+
 let run = require('../index.js');
 let expect = require('chai').expect;
 
