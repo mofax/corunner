@@ -1,0 +1,37 @@
+{
+    "name": "corunner",
+    "version": "0.0.0",
+    "description": "a simple lightweight coroutine runner",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "keywords": [
+        "generators",
+        "coroutines",
+        "iterators",
+        "async",
+        "flow control"
+    ],
+    "author": "Alloys Mila",
+    "license": "MIT",
+    "devDependencies": {
+        "chai": "^3.5.0",
+        "mocha": "^3.0.2"
+    },
+    "directories": {
+        "example": "examples",
+        "test": "test"
+    },
+    "engines": {
+        "node": ">=4.2.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mofax/corunner.git"
+    },
+    "bugs": {
+        "url": "https://github.com/mofax/corunner/issues"
+    },
+    "homepage": "https://github.com/mofax/corunner#readme"
+}
